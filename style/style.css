@@ -91,10 +91,6 @@ header ul li a {
   font-weight: 600;
 }
 
-.content .textBox p {
-  color: #333;
-}
-
 .content .textBox a {
   display: inline-block;
   margin-top: 20px;
